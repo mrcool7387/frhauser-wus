@@ -4,32 +4,32 @@
             "id": "74a4f483-ad9d-4537-a51c-3126c0475b66",
             "first_name": "Alexander",
             "last_name": "Schwarz",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "4ced5dcb-2bc7-4914-9123-04a480841cfd",
             "first_name": "Anna",
             "last_name": "Weber",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "5191390c-1c7d-4ba0-91f5-fb539c13c894",
             "first_name": "Charlotte",
             "last_name": "Grube",
-            "last_played": "2026-01-12T19:03:50.222596",
-            "total_games": 1,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 2,
             "is_blacklisted": false
         },
         {
             "id": "8f169afe-291f-4c40-b933-c29e6f19e592",
             "first_name": "Christian",
             "last_name": "Frey",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
@@ -44,64 +44,64 @@
             "id": "9c71748a-0563-484b-83c0-ce5a546303f8",
             "first_name": "Emma",
             "last_name": "Wendt",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "acc05495-569b-4d26-8089-6add42541c27",
             "first_name": "Jennifer",
             "last_name": "Richter",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "e4fadb88-d6af-430e-9579-2f72bbef0f2d",
             "first_name": "Julia",
             "last_name": "Hoffmann",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "1f5a4490-b7b3-4004-ac65-fa1e43e8c388",
             "first_name": "Klaus",
             "last_name": "Fischer",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "dcd67d46-cbc0-407e-927c-36476e1fdceb",
             "first_name": "Lisa",
             "last_name": "Braun",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 1,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 2,
             "is_blacklisted": false
         },
         {
             "id": "3f8c2a1d-5e7b-4c9a-8d3e-1b2c4a5d6e7f",
             "first_name": "Maria",
             "last_name": "Mueller",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "a386deee-1ec2-4ff6-b808-b8a92823f959",
             "first_name": "Michael",
             "last_name": "Wagner",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
             "id": "54e9ade9-69ef-48eb-92f3-a9414c366c67",
             "first_name": "Nicole",
             "last_name": "Neuner",
-            "last_played": "2026-01-12T19:03:56.277859",
-            "total_games": 2,
+            "last_played": "2026-01-13T14:07:27.547201",
+            "total_games": 3,
             "is_blacklisted": false
         },
         {
@@ -126,7 +126,7 @@
             "last_name": "Koch",
             "last_played": "2026-01-12T18:50:02.030607",
             "total_games": 0,
-            "is_blacklisted": true
+            "is_blacklisted": false
         },
         {
             "id": "13e50739-904f-44a3-909e-3bfd61ee6c39",
@@ -186,6 +186,23 @@
                 "Anna Weber",
                 "Christian Frey",
                 "David Hartmann",
+                "Emma Wendt",
+                "Jennifer Richter",
+                "Julia Hoffmann",
+                "Klaus Fischer",
+                "Lisa Braun",
+                "Maria Mueller",
+                "Michael Wagner",
+                "Nicole Neuner"
+            ]
+        },
+        {
+            "timestamp": "2026-01-13T14:07:27.547201",
+            "players": [
+                "Alexander Schwarz",
+                "Anna Weber",
+                "Charlotte Grube",
+                "Christian Frey",
                 "Emma Wendt",
                 "Jennifer Richter",
                 "Julia Hoffmann",
